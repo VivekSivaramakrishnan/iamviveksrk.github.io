@@ -2,13 +2,7 @@ theme: jekyll-theme-minimal
 title: Vivek Sivaramakrishnan
 description: Welcome to my Portfolio. 
 logo: /images/logo.jpeg
-email: iamviveksrk at gmail.com
-blank_title: true
-remote_theme: VivekSivaramakrishnan/minimalist
 
-color-scheme: auto
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
-  - jekyll-remote-theme
+remote_theme: VivekSivaramakrishnan/minimal
+
+color-scheme: dark
