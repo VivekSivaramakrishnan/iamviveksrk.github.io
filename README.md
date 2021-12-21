@@ -10,7 +10,7 @@
   - View a 5-min video summary of our team's submission [here](https://github.com/VivekSivaramakrishnan/SBSPS-Challenge-7192-SDG-6-Clean-water-and-sanitation/blob/main/DATA%20FOR%20SOCIAL%20GOOD-SDG6/video2929382947.mp4) (by yours truly :D)
 
 2. ### [Depression AI | Film Fly Experience Australia Submission](https://github.com/VivekSivaramakrishnan/Depression-AI)
-  - A naive attempt to build an AI that thru voice input predicts the sentiment of the user.
+  - A naive attempt to build an AI that through voice input predicts the sentiment of the user.
   - The project stems from the motivation to provide mental health advice in today's time that severly lacks the required number of mental health professionals. 
   - The project has 2 classifiers:
     - Voice classiffier: Used to classify sentiment purely based on sound. The MEL's frequency sepstrum acts as the voice feature used in the prediction.
