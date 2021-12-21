@@ -4,7 +4,8 @@ description: Welcome to my Portfolio.
 logo: /images/logo.jpeg
 email: iamviveksrk at gmail.com
 blank_title: true
-remote_theme: VivekSivaramakrishnan/minimal
+remote_theme: V VivekSivaramakrishnan/minimalist
+
 color-scheme: auto
 plugins:
   - jekyll-sitemap
