@@ -25,4 +25,4 @@
 4. ### [Road Fighters | Konami NES game rip off](https://github.com/VivekSivaramakrishnan/Road-Fighters)
   - This is by no means a DS project, but it's an attempt to recreate my childhood favourite NES racing game.
   - Feel free to indulge in some action yourself :)
-  - Windows standalone version - go [here](https://gamejolt.com/games/roadfighters/324545)
+  - Windows standalone version - [here](https://gamejolt.com/games/roadfighters/324545)
