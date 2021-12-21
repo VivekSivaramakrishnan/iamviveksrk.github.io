@@ -5,7 +5,7 @@ description: Welcome to my Portfolio.
 blank_title: true
 logo: /images/logo.jpeg
 
-remote_theme: VivekSivaramakrishnan/minimal
+remote_theme: VivekSivaramakrishnan/minimalist
 
 color-scheme: dark
 plugins:
