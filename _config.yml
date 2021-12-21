@@ -8,3 +8,8 @@ logo: /images/logo.jpeg
 remote_theme: VivekSivaramakrishnan/minimal
 
 color-scheme: dark
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
